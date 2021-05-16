@@ -1,6 +1,7 @@
 # Without-Natural-Mail
 
 适用于中国境内的免费邮箱服务
+网站 http://www.wnmail.link
 
 开发者:动词和代词X(砂糖) (Shuga-Na@qq.com)
 联系邮箱:admin@wnmail.link
