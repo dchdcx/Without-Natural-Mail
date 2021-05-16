@@ -8,6 +8,6 @@
 所属组织:Without Natural Music
 开源协议:Apache License
 协议文件:LICENSE
-编程语言:100.0% Applescript
+编程语言:\
 
 2021-05-16 SUN
